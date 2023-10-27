@@ -7,6 +7,7 @@ When I'm not coding, I'm either reading, playing bass, or cooking. 	𝄢
 - 📚 **Currently Reading**: Howl's Moving Castle by Diana Wynne Jones
 - 🎮 **Currently Playing**: Star Wars: Knights of the Old Republic II - The Sith Lords
 - 📺 **Currently Watching**: Foundation
+- 🌱 **I’m currently learning**: C#
 
 ## 💻 Coding Journey
 
